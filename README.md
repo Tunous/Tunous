@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My projects
+My open source Swift packages
 
-|                              Project                               |                                                                               Status                                                                                |                                 Description                                 |
+|                              Package                               |                                                                               Status                                                                                |                                 Description                                 |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | [DebouncedOnChange](https://github.com/Tunous/DebouncedOnChange)   | [![CI](https://github.com/Tunous/DebouncedOnChange/actions/workflows/main.yml/badge.svg)](https://github.com/Tunous/DebouncedOnChange/actions/workflows/main.yml)   | SwiftUI onChange View extension with debounce time                          |
 | [EnvironmentBinding](https://github.com/Tunous/EnvironmentBinding) | [![CI](https://github.com/Tunous/EnvironmentBinding/actions/workflows/main.yml/badge.svg)](https://github.com/Tunous/EnvironmentBinding/actions/workflows/main.yml) | A property wrapper that reads a binding from a SwiftUI's view’s environment |
